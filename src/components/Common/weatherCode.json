@@ -1,0 +1,145 @@
+{
+    "WMO_Codes": [
+      {
+        "code": 0,
+        "description": "Clear sky",
+        "icon": "☀️"
+      },
+      {
+        "code": 1,
+        "description": "Mainly clear",
+        "icon": "🌤️"
+      },
+      {
+        "code": 2,
+        "description": "Partly cloudy",
+        "icon": "⛅"
+      },
+      {
+        "code": 3,
+        "description": "Overcast",
+        "icon": "☁️"
+      },
+      {
+        "code": 45,
+        "description": "Fog",
+        "icon": "🌫️"
+      },
+      {
+        "code": 48,
+        "description": "Depositing rime fog",
+        "icon": "🌫️"
+      },
+      {
+        "code": 51,
+        "description": "Light drizzle",
+        "icon": "🌦️"
+      },
+      {
+        "code": 53,
+        "description": "Moderate drizzle",
+        "icon": "🌧️"
+      },
+      {
+        "code": 55,
+        "description": "Dense drizzle",
+        "icon": "🌧️"
+      },
+      {
+        "code": 56,
+        "description": "Light freezing drizzle",
+        "icon": "🌧️"
+      },
+      {
+        "code": 57,
+        "description": "Dense freezing drizzle",
+        "icon": "🌧️"
+      },
+      {
+        "code": 61,
+        "description": "Slight rain",
+        "icon": "🌧️"
+      },
+      {
+        "code": 63,
+        "description": "Moderate rain",
+        "icon": "🌧️"
+      },
+      {
+        "code": 65,
+        "description": "Heavy rain",
+        "icon": "🌧️"
+      },
+      {
+        "code": 66,
+        "description": "Light freezing rain",
+        "icon": "🌧️"
+      },
+      {
+        "code": 67,
+        "description": "Heavy freezing rain",
+        "icon": "🌧️"
+      },
+      {
+        "code": 71,
+        "description": "Slight snow fall",
+        "icon": "🌨️"
+      },
+      {
+        "code": 73,
+        "description": "Moderate snow fall",
+        "icon": "🌨️"
+      },
+      {
+        "code": 75,
+        "description": "Heavy snow fall",
+        "icon": "❄️"
+      },
+      {
+        "code": 77,
+        "description": "Snow grains",
+        "icon": "🌨️"
+      },
+      {
+        "code": 80,
+        "description": "Slight rain showers",
+        "icon": "🌦️"
+      },
+      {
+        "code": 81,
+        "description": "Moderate rain showers",
+        "icon": "🌧️"
+      },
+      {
+        "code": 82,
+        "description": "Violent rain showers",
+        "icon": "🌧️"
+      },
+      {
+        "code": 85,
+        "description": "Slight snow showers",
+        "icon": "🌨️"
+      },
+      {
+        "code": 86,
+        "description": "Heavy snow showers",
+        "icon": "❄️"
+      },
+      {
+        "code": 95,
+        "description": "Thunderstorm",
+        "icon": "🌩️"
+      },
+      {
+        "code": 96,
+        "description": "Thunderstorm with slight hail",
+        "icon": "⛈️"
+      },
+      {
+        "code": 99,
+        "description": "Thunderstorm with heavy hail",
+        "icon": "⛈️"
+      }
+    ]
+  }
+  
